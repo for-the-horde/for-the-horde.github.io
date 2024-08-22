@@ -5,6 +5,7 @@ description: Code of Conduct for the FtH Community
 permalink: /code-of-conduct/
 image: https://i.imgur.com/5679tVw.gif
 ---
+# For the Horde Code of Conduct
 
 Like the technical and startup community as a whole, the For the Horde Community is made up of a mixture of people from all over the North and beyond. We are coders, freelancers, designers, startup founders, and every other flavor of geek you can imagine. We are here for mentorship, help, support, to connect with people who can help us further our journey, and of course, to learn about the latest animated cat GIFs and maximize our emoji skill.
 
@@ -34,7 +35,7 @@ This includes, but is not limited to:
 - Discriminatory jokes and language.
 - Posting sexually explicit or violent material.
 - Posting (or threatening to post) other people's personally identifying information ("doxing").
-- Personal insults, especially those using racist or sexist terms.
+- Personal insults, especially those using racist, xenophobic, ableist, homophobic, and sexist terms.
 - Unwelcome sexual attention.
 - Advocating for, or encouraging, any of the above behavior.
 - Repeated harassment of others.
@@ -45,6 +46,10 @@ In general, if someone asks you to stop, then stop.
 
 Disagreements, both social and technical, happen all the time and For the Horde is no exception. It is important that we resolve disagreements and differing views constructively and respectfully. Remember that we’re different. The strength of For the Horde community comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 
+#### For the Horde is a community to participate in, not an audience to broadcast to
+
+If you are intending to join solely to access the community as an audience, this is not the place for you. Promoting something you're passionate about is not banned, but we value participation more than promotion. Please post in the appropriate channels - if you're not sure, just ask - and avoid cross-posting. Generally speaking, the more you participate and give back, the more you will get out of this community.
+
 #### Need to Report a Violation or Have a Question?
 
 Please contact one of the following For the Horde admin Community members:
@@ -52,12 +57,11 @@ Please contact one of the following For the Horde admin Community members:
 - Jenna Pederson @jennapederson
 - Matt Decuir @experimatt
 - Ian Fitzpatrick @ian
-- Aneela Kumar @aneela
-- Shane Ewert @shane
 - Justin Cardinal @justin
 - Robert Nelson @robert
 - Jake Good @whoisjake
 - Kristina Durivage @kdurivage
 - Eryn O'Neil @eryno
+- Kisha Delain @kisha
 
 This Code of Conduct was adapted from Django Code of conduct: https://www.djangoproject.com/conduct/
