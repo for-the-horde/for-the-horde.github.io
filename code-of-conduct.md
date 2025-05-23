@@ -50,6 +50,8 @@ Disagreements, both social and technical, happen all the time and For the Horde 
 
 If you are intending to join solely to access the community as an audience, this is not the place for you. Promoting something you're passionate about is not banned, but we value participation more than promotion. Please post in the appropriate channels - if you're not sure, just ask - and avoid cross-posting. Generally speaking, the more you participate and give back, the more you will get out of this community.
 
+This includes joining this slack for referrals to companies. Please do not DM individuals to ask for referrals.
+
 #### Need to Report a Violation or Have a Question?
 
 Please contact one of the following For the Horde admin Community members:
