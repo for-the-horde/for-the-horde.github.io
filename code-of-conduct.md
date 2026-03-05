@@ -57,7 +57,6 @@ Please contact one of the following For the Horde admin Community members:
 - Jenna Pederson @jennapederson
 - Matt Decuir @experimatt
 - Ian Fitzpatrick @ian
-- Justin Cardinal @justin
 - Robert Nelson @robert
 - Jake Good @whoisjake
 - Kristina Durivage @kdurivage
